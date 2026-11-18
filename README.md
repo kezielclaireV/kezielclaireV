@@ -17,6 +17,7 @@ I am Claire, with a flair for coding, Wireframing, Prototyping and database mana
 
 ## 📜 Certifications
 - [Gemini Certified University Student]([https://example.com](https://edu.google.accredible.com/972492fe-85be-461c-8c30-c227da243696#acc.NaLVQMAI))
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e9a9ea2f10ba401db81d24d4b9f980d7#)
 
 ---
 
