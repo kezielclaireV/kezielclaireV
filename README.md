@@ -34,6 +34,7 @@ I am Claire, with a flair for coding, Wireframing, Prototyping and database mana
 ### 🗄 Databases
 - IBM DB2 Cloud
 - Pentaho
+- MongoDB
 
 ### 🛠 Tools
 - Eclipse
